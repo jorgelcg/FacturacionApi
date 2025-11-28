@@ -1,0 +1,6 @@
+@FacturacionApi_HostAddress = https://localhost:7272
+
+GET {{FacturacionApi_HostAddress}}/Facturacion/
+Accept: application/json
+
+###
